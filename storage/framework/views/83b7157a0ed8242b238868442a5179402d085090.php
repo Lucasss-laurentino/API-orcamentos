@@ -1,0 +1,1 @@
+<?php /**PATH /home/tr3m/projetos/planos/planos_de_saude/resources/views//cadastrar_plano.blade.php ENDPATH**/ ?>

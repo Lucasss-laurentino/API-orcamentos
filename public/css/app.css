@@ -1,0 +1,22 @@
+.back-image {
+    background-image: url('/image/coracao.jpg');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.transparente {
+    background: transparent;
+    backdrop-filter: blur(8px);
+}
+
+.lista_planos {
+    overflow-x: scroll;
+    list-style: none;
+    white-space: nowrap;
+    display: block;
+}
+
+.planos {
+    display: inline-block;
+}
