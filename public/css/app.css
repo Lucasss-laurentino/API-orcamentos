@@ -1,6 +1,6 @@
 .back-image {
     background-image: url('/image/coracao.jpg');
-    background-size: 50%;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }

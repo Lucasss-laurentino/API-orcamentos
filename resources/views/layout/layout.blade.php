@@ -27,7 +27,7 @@
     </head>
     <body class="antialiased" style="min-width: 372px;">
     
-        <div class="back-image position-relative" style="height: 80vh">
+        <div class="back-image position-relative">
             @yield('content')
         </div>
     
